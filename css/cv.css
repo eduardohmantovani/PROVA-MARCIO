@@ -1,0 +1,29 @@
+.col-4{
+    text-align: center;
+}
+.nome{
+    background: #5dc1de;
+    color: #fff;
+    font-size: 25px;
+}
+.col-8 h4 {
+    color:#5dc1de;   
+}
+.col-4{
+    background-color: #808184;
+    color: #fff;
+}
+hr{
+    border:#5dc1de solid 1px;    
+}
+.card-img{
+    width: 220px;
+    height: 250px;
+    padding: 20px 0px 0px 0px;
+}
+.CONTATO{
+    padding: 30px 35px 0px 35px;
+}
+.objetivo{
+    padding: 30px 35px 0px 35px;
+}
